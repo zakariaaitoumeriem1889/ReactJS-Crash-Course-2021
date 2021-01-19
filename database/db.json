@@ -17,6 +17,12 @@
       "text": "Food Shopping",
       "day": "Feb 5th at 2:30pm",
       "reminder": false
+    },
+    {
+      "text": "Doctors Appointment",
+      "day": "Jan 20th at 3:00pm",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
